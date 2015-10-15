@@ -1,0 +1,15 @@
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\ExtTest.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\ExtTest.pdb
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Ext.Net.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Ext.Net.Utilities.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Newtonsoft.Json.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Transformer.NET.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\WebActivatorEx.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Ext.Net.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Ext.Net.Utilities.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Newtonsoft.Json.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\bin\Transformer.NET.xml
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\obj\Debug\ExtTest.csprojResolveAssemblyReference.cache
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\obj\Debug\ExtTest.dll
+c:\users\kardelen\documents\visual studio 2012\Projects\ExtTest\ExtTest\obj\Debug\ExtTest.pdb
